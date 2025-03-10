@@ -1,21 +1,9 @@
-# Hi there, I'm Shubham! 👋
+# Hi there, I'm Simran! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new technologies. Here you'll find my projects, contributions, and the journey of my coding adventures.
 
 ---
 
-## 🔭 Current Projects
-
-- **[Html and CSS Projects](https://github.com/shubham2006-nov/Html-plus-CSS-Projects)**:
-  - Projects created using HTML and CSS.
-
-- **[Project of C Language](https://github.com/shubham2006-nov/Project-Of-C-Lang.)**:
-  - Some basic projects of the C language.
-
-- **[Config files for my GitHub profile](https://github.com/shubham2006-nov/shubham2006-nov)**:
-  - Config files for my GitHub profile.
-
----
 
 ## 🌱 What I'm Learning
 
@@ -28,7 +16,6 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - C
 - C++
 - HTML
-- CSS
 ## 👯 Collaboration
 
 - Looking to collaborate on open-source projects.
@@ -53,16 +40,13 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ---
 
-## 📫 How to Reach Me
 
-- Email: [dograshubham06@gmail.com](mailto:shubham@example.com)
-- Reddit: [Follow me-shubham_9026](https://twitter.com/shubham2006-nov)
 
 ---
 
 ## 😄 Pronouns
 
-- He/Him
+- She/Her
 
 ---
 
@@ -85,21 +69,17 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 Here are some of my public repositories:
 
-- [**shubham2006-nov**](https://github.com/shubham2006-nov/shubham2006-nov):
+- [**simran-aug15**](https://github.com/simran-aug15/simran-aug15):
 
 Feel free to check out my repositories and contribute to them!
 
 ---
 
-## 📞 Connect with Me
 
-- Email: [dograshubham06@gmail.com](mailto:shubham@example.com) 
-- Reddit: [Follow me-shubham_9026](https://reddit.com/shubham2006-nov)
----
 
 ## 📈 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubham2006-nov&theme=onedark)](https://github.com/shubham2006-nov)
+[![trophy](https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=onedark)](https://github.com/simran-aug15)
 
 ---
 
