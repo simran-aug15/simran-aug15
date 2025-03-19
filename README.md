@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 ## ⚡ Fun Fact
 
 - I love coding and exploring new tech!
-- When I'm not coding, you can find me reading .
+- When I'm not coding, you can find me reading books.
 
 ---
 
