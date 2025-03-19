@@ -59,9 +59,9 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham2006-nov&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2006-nov&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15-nov&layout=compact&theme=radical)
 
 ---
 
