@@ -1,86 +1,116 @@
-# Hi there, I'm Simran! 👋
+<!-- Animated Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=435&lines=Hi+there%2C+I'm+Simran!;Hey+there%2C+I'm+Simran+" alt="Typing SVG" />
+</h1>
 
-Welcome to my GitHub profile! I'm passionate about coding and constantly learning new technologies. Here you'll find my projects, contributions, and the journey of my coding adventures.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Welcome!&fontSize=48&fontColor=ffffff"/>
+</div>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-%236C63FF.svg?style=for-the-badge&logo=graduationcap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Developer-%23007ACC.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech%20Explorer-%23E34F26.svg?style=for-the-badge&logo=rocket&logoColor=white"/>
+</h3>
+
+---
+
+## ✨ About Me
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/IhJyT81yn9B4bIkIRM/giphy.gif" width="54"/>
+  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="40"/>
+</div>
+
+<div align="center">
+  <strong style="font-size:1.3rem;">
+    👋 Hey there, I'm <span style="color:#6C63FF"><b>Simran</b></span> 
+  </strong>
+  <br>
+  <sup>B.Tech CSE | Tech Explorer | Developer</sup>
+</div>
+
+<p align="center">
+  🚀 <b>Passionate about tech & innovation, driven to solve real-world problems.</b><br>
+  💡 I thrive on exploring new frameworks, building projects, and learning new things.<br>
+  ⚡ <b>“Learn. Build. Repeat.”</b> — Growth never stops!
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&title=Stars,Followers,Commit,Repositories,Issues&column=5&margin-w=15" alt="Trophy" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=12&section=footer"/>
+</p>
+
+---
+
+## 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <img alt="Simran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0,232526,414345&title_color=6C63FF&icon_color=FFD700&text_color=F8F8FF" height="185"/>
+  &nbsp;
+  <img alt="Simran's GitHub Streak" src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FFD700&currStreakNum=FFD700&background=232526" height="185"/>
+</p>
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&theme=tokyonight&hide_border=true&layout=compact&bg_color=0,232526,414345&title_color=F07B3F&text_color=F8F8FF" height="120"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="GitHub Profile Summary Card"/>
+</p>
+
+---
+
+## ✨ Skills & Tools
+
+### 🧑‍💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### 🏁 Core Abilities
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-6C63FF?style=for-the-badge&logo=codewars&logoColor=white" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Learning%20New%20Tech-E34F26?style=for-the-badge&logo=graphql&logoColor=white" alt="Tech Explorer"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer"/>
+</p>
 
 ---
 
 
-## 🌱 What I'm Learning
+## 🌐 Connect with Me
 
-- Exploring new programming languages and frameworks.
-- Enhancing my skills in full-stack development.
-- Diving deeper into open-source contributions.
+<p align="center">
+  <a href="mailto:samarsimran492@gmail.com" target="_blank" title="Email Me">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/SimranRamgarhia" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
 
----
-### Languages I'm Currently Learning
-- C
-- C++
-- HTML
-## 👯 Collaboration
+    
+</p>
 
-- Looking to collaborate on open-source projects.
-- Open to pair programming and code reviews.
-- Interested in contributing to community-driven projects.
-
----
-
-## 🤔 Seeking Help
-
-- Improving my problem-solving skills.
-- Understanding advanced software architecture.
-- Exploring best practices in software development.
-
----
-
-## 💬 Ask Me About
-
-- My recent projects and experiences.
-- Tips on getting started with GitHub and open-source.
-- Anything related to web development.
-
----
-
-
-
----
-
-## 😄 Pronouns
-
-- She/Her
-
----
-
-## ⚡ Fun Fact
-
-- I love coding and exploring new tech!
-- When I'm not coding, you can find me reading books.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=radical)
-
----
-
-## 📚 Repositories
-
-Here are some of my public repositories:
-
-- [**simran-aug15**](https://github.com/simran-aug15/simran-aug15):
-
-Feel free to check out my repositories and contribute to them!
-
----
-
-
-
-## 📈 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=onedark)](https://github.com/simran-aug15)
-
----
-
-Thank you for visiting my profile! I look forward to connecting with you and collaborating on exciting projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=F07B3F&center=true&width=435&lines=Proudly+crafted+by+Simran+%F0%9F%A4%8D" alt="Footer animated"/>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer"/>
+</p>
