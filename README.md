@@ -38,14 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- [🌐 Portfolio Website](https://github.com/simran-aug15/portfolio) – Personal site built with HTML, CSS, and JavaScript.  
-- [📘 Data Structures in C++](https://github.com/simran-aug15/dsa-cpp) – Implementations of core algorithms and data structures.  
-- [⚡ Python Automation Scripts](https://github.com/simran-aug15/python-automation) – Handy scripts for everyday tasks.  
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -57,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" />
 </p>
 
 ---
@@ -65,17 +57,17 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
   &nbsp;
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" />
 </p>
 
 ---
@@ -103,9 +95,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-  </a>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
 </p>
 
 ---
