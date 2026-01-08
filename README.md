@@ -56,28 +56,59 @@
 
 ## 📊 GitHub stats and activity
 
+<!-- If any image fails, switch to the MIRROR URL directly below it -->
+
 <p align="center">
-  <!-- Stats (working) -->
-  <a href="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true&v=1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true&v=1" height="180" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <!-- Streak (working) -->
-  <a href="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dm.%5Dd&v=1" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dm.%5Dd&v=1" height="180" alt="GitHub Streak"/>
+  <!-- Stats (primary) -->
+  <a href="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
   </a>
 </p>
 
+<!-- Stats (mirror) -->
+<!--
 <p align="center">
-  <!-- Top Languages (working) -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8&v=1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8&v=1" height="120" alt="Top Languages"/>
+  <a href="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true">
+    <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats (Mirror)"/>
   </a>
 </p>
+-->
+
+<p align="center">
+  <!-- Streak (primary) -->
+  <a href="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<!-- Streak (mirror) -->
+<!--
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight" height="180" alt="GitHub Streak (Mirror)"/>
+  </a>
+</p>
+-->
+
+<p align="center">
+  <!-- Top Languages (primary) -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8" height="120" alt="Top Languages"/>
+  </a>
+</p>
+
+<!-- Top Languages (mirror) -->
+<!--
+<p align="center">
+  <a href="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8">
+    <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8" height="120" alt="Top Languages (Mirror)"/>
+  </a>
+</p>
+-->
 
 <p align="center">
   <!-- Profile Summary (working) -->
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" target="_blank">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
   </a>
 </p>
