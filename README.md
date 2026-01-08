@@ -46,18 +46,30 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&hide_border=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&hide_border=true&theme=tokyonight" height="140"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true"
+    height="140"
+  />
+</p>
+
 
 ## 📈 Contribution Graph
 
