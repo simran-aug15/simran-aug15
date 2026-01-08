@@ -18,8 +18,7 @@
 ## 👩‍💻 About Me
 
 <p align="center">
-  <!-- Replace with your professional photo -->
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="200" style="border-radius:50%" alt="Professional Photo"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif" width="260" />
 </p>
 
 <p align="center">
@@ -55,6 +54,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -65,6 +72,18 @@
 
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -84,7 +103,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  </a>
 </p>
 
 ---
