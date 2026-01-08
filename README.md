@@ -15,7 +15,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About me
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif" width="260" />
@@ -38,7 +38,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub achievements
 
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=algolia&no-frame=true&column=6" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" />
@@ -54,27 +54,32 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub stats and activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  <!-- Stats (working) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" height="180"/>
+  <!-- Streak (working) -->
+  <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
+  <!-- Top Languages (working) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" />
+  <!-- Profile Summary (working) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution graph
 
 <p align="center">
+  <!-- Hover over each day to see contribution count; click to open full activity on GitHub -->
   <a href="https://github.com/simran-aug15">
     <img src="https://ghchart.rshah.org/4F46E5/simran-aug15" alt="Simran's GitHub Contribution Graph"/>
   </a>
@@ -82,9 +87,9 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills and tools
 
-### 💻 Programming Languages
+### 💻 Programming languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus"/>
@@ -93,7 +98,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools and platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -102,7 +107,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with me
 
 <p align="center">
   <a href="mailto:samarsimran492@gmail.com">
