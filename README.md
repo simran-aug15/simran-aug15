@@ -47,27 +47,28 @@
 ---
 
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true"
-    height="140"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
 
