@@ -56,58 +56,27 @@
 
 ## 📊 GitHub stats and activity
 
-<!-- If any image fails, switch to the MIRROR URL directly below it -->
-
 <p align="center">
-  <!-- Stats (primary) -->
-  <a href="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  </a>
-</p>
-
-<!-- Stats (mirror) -->
-<!--
-<p align="center">
+  <!-- Stats (mirror that stays up) -->
   <a href="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true">
-    <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats (Mirror)"/>
+    <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
   </a>
-</p>
--->
-
-<p align="center">
-  <!-- Streak (primary) -->
-  <a href="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  &nbsp;
+  <!-- Streak (heroku mirror) -->
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
   </a>
 </p>
 
-<!-- Streak (mirror) -->
-<!--
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight" height="180" alt="GitHub Streak (Mirror)"/>
-  </a>
-</p>
--->
-
-<p align="center">
-  <!-- Top Languages (primary) -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8" height="120" alt="Top Languages"/>
-  </a>
-</p>
-
-<!-- Top Languages (mirror) -->
-<!--
-<p align="center">
+  <!-- Top Languages (mirror that stays up) -->
   <a href="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8">
-    <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8" height="120" alt="Top Languages (Mirror)"/>
+    <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8" height="120" alt="Top Languages"/>
   </a>
 </p>
--->
 
 <p align="center">
-  <!-- Profile Summary (working) -->
+  <!-- Profile Summary -->
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
   </a>
@@ -118,9 +87,9 @@
 ## 📈 Contribution graph
 
 <p align="center">
-  <!-- Hover over each day to see contribution count; click to open full activity on GitHub -->
+  <!-- Alternative contribution graph generator -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://ghchart.rshah.org/4F46E5/simran-aug15" alt="Simran's GitHub Contribution Graph"/>
+    <img src="https://github-contributions-api.deno.dev/simran-aug15.svg" alt="Simran's GitHub Contribution Graph"/>
   </a>
 </p>
 
