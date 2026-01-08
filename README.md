@@ -41,7 +41,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=algolia&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=algolia&no-frame=true&column=6" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/4F46E5/simran-aug15" alt="Simran's GitHub Contribution Graph"/>
 </p>
 
 ---
