@@ -18,7 +18,8 @@
 ## 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif" width="260" />
+  <!-- Replace with your professional photo -->
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="200" style="border-radius:50%" alt="Professional Photo"/>
 </p>
 
 <p align="center">
@@ -38,19 +39,18 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- [🌐 Portfolio Website](https://github.com/simran-aug15/portfolio) – Personal site built with HTML, CSS, and JavaScript.  
+- [📘 Data Structures in C++](https://github.com/simran-aug15/dsa-cpp) – Implementations of core algorithms and data structures.  
+- [⚡ Python Automation Scripts](https://github.com/simran-aug15/python-automation) – Handy scripts for everyday tasks.  
+
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=algolia&no-frame=true&column=6" />
-</p>
-
----
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -65,17 +65,6 @@
 
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
-</p>
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -108,6 +97,9 @@
   </a>
   <a href="https://www.linkedin.com/in/simran-ramgarhia/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/simran-aug15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
