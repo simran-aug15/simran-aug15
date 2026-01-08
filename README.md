@@ -15,7 +15,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About me
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif" width="260" />
@@ -38,7 +38,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub achievements
 
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=algolia&no-frame=true&column=6" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" />
@@ -54,25 +54,29 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub stats and activity
 
 <p align="center">
+  <!-- Stats (mirror that stays up) -->
   <a href="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true">
     <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
   </a>
   &nbsp;
+  <!-- Streak (heroku mirror) -->
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
+  <!-- Top Languages (mirror that stays up) -->
   <a href="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8">
     <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8" height="120" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
+  <!-- Profile Summary -->
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
   </a>
@@ -80,19 +84,20 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution graph
 
 <p align="center">
+  <!-- Alternative contribution graph generator -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=tokyo-night&hide_border=true" alt="Simran's GitHub Contribution Graph"/>
+    <img src="https://github-contributions-api.deno.dev/simran-aug15.svg" alt="Simran's GitHub Contribution Graph"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills and tools
 
-### 💻 Programming Languages
+### 💻 Programming languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus"/>
@@ -101,7 +106,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools and platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -110,7 +115,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with me
 
 <p align="center">
   <a href="mailto:samarsimran492@gmail.com">
