@@ -57,27 +57,31 @@
 ## 📊 GitHub stats and activity
 
 <p align="center">
-  <!-- Stats (mirror that stays up) -->
-  <a href="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true">
-    <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=simran-aug15&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <!-- Summary Stats -->
+  <a href="https://github.com/simran-aug15">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simran-aug15&theme=tokyonight" height="150" alt="Summary Stats"/>
   </a>
   &nbsp;
-  <!-- Streak (heroku mirror) -->
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <!-- Productive Time (Activity) -->
+  <a href="https://github.com/simran-aug15">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simran-aug15&theme=tokyonight&utcOffset=+5.5" height="150" alt="Productive Time"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- Top Languages (mirror that stays up) -->
-  <a href="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8">
-    <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&langs_count=8" height="120" alt="Top Languages"/>
+  <!-- Languages -->
+  <a href="https://github.com/simran-aug15">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simran-aug15&theme=tokyonight" height="150" alt="Repos per Language"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/simran-aug15">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simran-aug15&theme=tokyonight" height="150" alt="Most Commit Language"/>
   </a>
 </p>
 
 <p align="center">
   <!-- Profile Summary -->
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight">
+  <a href="https://github.com/simran-aug15">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
   </a>
 </p>
@@ -87,9 +91,9 @@
 ## 📈 Contribution graph
 
 <p align="center">
-  <!-- Alternative contribution graph generator -->
+  <!-- Alternative contribution graph with daily hover tooltips -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-contributions-api.deno.dev/simran-aug15.svg" alt="Simran's GitHub Contribution Graph"/>
+    <img src="https://github-contributions.vercel.app/api/v1/simran-aug15" alt="Simran's GitHub Contribution Graph"/>
   </a>
 </p>
 
