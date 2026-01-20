@@ -38,21 +38,20 @@
 
 ---
 
-## 🏆 GitHub achievements
+## 🏆 GitHub Achievements (Commit Streak)
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=algolia&no-frame=true&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=algolia&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub trophies
+## 🏆 GitHub Trophies / Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=discord&hide_border=true" />
 </p>
 
----
 
 ## 📊 GitHub stats and activity
 
