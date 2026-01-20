@@ -38,29 +38,28 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements (Commit Streak)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simran-aug15/simran-aug15/main/assets/achievements/starstruck.png" width="90">
-  <img src="https://raw.githubusercontent.com/simran-aug15/simran-aug15/main/assets/achievements/quickdraw.png" width="90">
-  <!-- more images -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simran-aug15/simran-aug15/main/assets/achievements/starstruck.png" width="90">
-  <img src="https://raw.githubusercontent.com/simran-aug15/simran-aug15/main/assets/achievements/quickdraw.png" width="90">
-  <!-- more images -->
-</p>
 
-
-## 🏆 GitHub trophies
+## 🏆 GitHub Trophies / Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+## 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" />
+</p>
+
 
 ## 📊 GitHub stats and activity
 
