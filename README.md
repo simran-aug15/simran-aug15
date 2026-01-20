@@ -38,19 +38,22 @@
 
 ---
 
+<!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 GitHub achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=algolia&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=algolia&no-frame=true&column=6" />
 </p>
 
 ---
 
+<!-- ===================== TROPHIES ===================== -->
 ## 🏆 GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=discord&no-frame=true&column=5&margin-w=15" />
 </p>
+
 
 ---
 
