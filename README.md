@@ -40,10 +40,10 @@
 
 ---
 
-## 🏆 GitHub achievements
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/simran-aug15/simran-aug15/main/assets/achievements/starstruck.png" width="90">
+  <img src="https://raw.githubusercontent.com/simran-aug15/simran-aug15/main/assets/achievements/quickdraw.png" width="90">
+  <!-- more images -->
 </p>
 
 ---
