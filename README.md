@@ -48,7 +48,7 @@
 ## 🏆 GitHub trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=simran-aug15&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 
