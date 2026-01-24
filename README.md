@@ -41,7 +41,7 @@
 ## 🏆 GitHub Achievements (Commit Streak)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
