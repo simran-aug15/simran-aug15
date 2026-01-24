@@ -1,4 +1,4 @@
-Got it, Simran 👍 — let’s replace your broken Achievements (Commit Streak) and Trophies sections with verified working links that render correctly on GitHub. Here’s the fixed code:
+
 
 🏆 GitHub Achievements (Commit Streak)
 <p align="center">
