@@ -39,15 +39,18 @@
 ---
 
 ## 🏆 GitHub Achievements 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ## 🏆 GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=onedark&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=simran-aug15&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
