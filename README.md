@@ -138,7 +138,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=80&section=footer"/>
 </p>
 
-
-
-Now your streak and trophies should render correctly.
-👉 Do you want me to also add dynamic themes (light/dark auto-switch) so your stats adapt to the viewer’s GitHub theme?
