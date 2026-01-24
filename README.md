@@ -49,7 +49,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="assets/trophies.png" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🏆%20GitHub-Active%20Contributor-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥%20Streak-Consistent%20Coder-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐%20Open%20Source-Learner-success?style=for-the-badge" />
 </p>
 
 
