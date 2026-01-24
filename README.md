@@ -45,10 +45,11 @@
 </p>
 
 
-## 🏆 GitHub trophies
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="assets/trophies.png" alt="GitHub Trophies" />
 </p>
 
 
