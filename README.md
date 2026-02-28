@@ -84,18 +84,12 @@
   </a>
 </p>
 
----
-
-## 📈 Contribution graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <!-- Alternative contribution graph with daily hover tooltips -->
-  <a href="https://github.com/simran-aug15">
-    <img src="https://github-contributions.vercel.app/api/v1/simran-aug15" alt="Simran's GitHub Contribution Graph"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/simran-aug15/simran-aug15/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
 ## 🛠️ Skills and tools
 
