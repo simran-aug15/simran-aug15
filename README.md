@@ -17,19 +17,13 @@
 
 ## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Simran;Computer+Science+Engineering+Student;Passionate+About+Software+Development;Always+Learning+New+Technologies" />
-</p>
+<h3 align="center">Hi 👋 I'm Simran</h3>
 
 <p align="center">
-  👋 I'm <b>Simran</b>, a <b>Computer Science Engineering student</b> passionate about  
-  <b>software development, problem solving, and learning new technologies</b>.
-</p>
-
-<p align="center">
-  🚀 Focused on building strong fundamentals<br>
-  💡 Love working on practical projects<br>
-  🎯 Always improving step by step
+  💻 Computer Science Engineering Student <br>
+  🚀 Passionate about Software Development <br>
+  🧠 Love Problem Solving & DSA <br>
+  🌱 Currently Learning & Improving Every Day
 </p>
 
 <p align="center">
