@@ -40,9 +40,7 @@
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=radical" />
-</p>
+![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=simran-aug15)
 
 
 ## 🏆 GitHub Trophies
