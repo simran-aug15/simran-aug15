@@ -15,10 +15,10 @@
 
 ---
 
-## 👩‍💻 About me
+## 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif" width="260" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Simran;Computer+Science+Engineering+Student;Passionate+About+Software+Development;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -35,8 +35,6 @@
 <p align="center">
   <i><b>"Consistency beats talent when talent doesn’t work consistently."</b></i>
 </p>
-
----
 
 ## 🏆 GitHub Achievements
 
