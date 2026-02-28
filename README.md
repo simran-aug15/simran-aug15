@@ -87,7 +87,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simran-aug15/simran-aug15/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=github-dark&hide_border=true" />
 </p>
 
 
