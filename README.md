@@ -87,7 +87,9 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=github-dark&hide_border=true" />
+  <a href="https://github.com/simran-aug15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=github-compact&hide_border=true" alt="Simran's GitHub Contribution Graph" />
+  </a>
 </p>
 
 
