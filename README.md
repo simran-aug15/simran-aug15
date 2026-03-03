@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=800&color=4F46E5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Simran+Ramgarhia;B.Tech+Computer+Science+Student;Aspiring+Software+Developer;Building+Skills+One+Commit+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=800&color=4F46E5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Simran;B.Tech+Computer+Science+Student;Aspiring+Software+Developer;Building+Skills+One+Commit+at+a+Time" />
 </h1>
 
 <p align="center">
