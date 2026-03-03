@@ -101,8 +101,8 @@
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Numpy"/>
 </p>
 
 ### ⚙️ Tools and platforms
