@@ -39,14 +39,19 @@
 
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆%20GitHub-Active%20Contributor-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥%20Streak-Consistent%20Coder-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⭐%20Open%20Source-Learner-success?style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
 ---
 
