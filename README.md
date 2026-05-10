@@ -52,28 +52,6 @@
 
 ---
 
-<p align="center">
-  <!-- Dynamic GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" />
-</p>
-
----
-
-<p align="center">
-  <!-- Dynamic GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" />
-</p>
-
-
-<p align="center">
-  <!-- Dynamic GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" />
-</p>
-
-
----
-
-
 
 ## 📊 GitHub stats and activity
 
