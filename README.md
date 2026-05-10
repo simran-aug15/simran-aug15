@@ -39,24 +39,23 @@
 
 
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
   <!-- Custom Badges -->
   <img src="https://img.shields.io/badge/🏆%20Active-Contributor-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔥%20Streak-Consistent%20Coder-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⭐%20Open%20Source-Learner-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Project-Launcher-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️%20Bug-Fixer-red?style=for-the-badge" />
 </p>
 
 ---
 
-### 🎮 Unlocked Trophies
-- 🥇 **First Commit** – You made your very first push to GitHub!  
-- 📈 **100+ Contributions** – Consistency pays off.  
-- 🌍 **Open Source Explorer** – Contributed to a public project.  
-- 🛠️ **Bug Fixer** – Closed issues and squashed bugs.  
-- 🚀 **Project Launcher** – Published your own repository.  
-- 🔥 **Contribution Streak** – Maintained coding activity for consecutive days.  
+<p align="center">
+  <!-- Dynamic GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
 
 ---
 
