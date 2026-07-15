@@ -30,71 +30,52 @@
   <i><b>"Consistency beats talent when talent doesn’t work consistently."</b></i>
 </p>
 
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" />
-</p>
-
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <!-- Custom Badges -->
-  <img src="https://img.shields.io/badge/🏆%20Active-Contributor-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥%20Streak-Consistent%20Coder-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⭐%20Open%20Source-Learner-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀%20Project-Launcher-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛠️%20Bug-Fixer-red?style=for-the-badge" />
+  <a href="https://github.com/simran-aug15">
+    <img src="https://github-profile-trophy.vercel.app/?username=simran-aug15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
 
-
-## 📊 GitHub stats and activity
+## 📊 GitHub Stats and Activity
 
 <p align="center">
-  <!-- Summary Stats -->
+  <!-- Stats -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simran-aug15&theme=tokyonight" height="150" alt="Summary Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
   </a>
   &nbsp;
-  <!-- Productive Time (Activity) -->
+  <!-- Streak -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simran-aug15&theme=tokyonight&utcOffset=+5.5" height="150" alt="Productive Time"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <!-- Languages -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simran-aug15&theme=tokyonight" height="150" alt="Repos per Language"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/simran-aug15">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simran-aug15&theme=tokyonight" height="150" alt="Most Commit Language"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
   </a>
 </p>
 
-<p align="center">
-  <!-- Profile Summary -->
-  <a href="https://github.com/simran-aug15">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran-aug15&theme=tokyonight" alt="Profile Summary"/>
-  </a>
-</p>
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=github-dark&hide_border=true" alt="Simran's GitHub Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=tokyo-night&hide_border=true" alt="Simran's GitHub Contribution Graph" />
   </a>
 </p>
 
+---
 
-## 🛠️ Skills and tools
+## 🛠️ Skills and Tools
 
 ### 💻 Programming Languages
 <p align="center">
@@ -120,9 +101,10 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
+
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:samarsimran492@gmail.com">
