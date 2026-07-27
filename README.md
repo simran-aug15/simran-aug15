@@ -17,18 +17,18 @@
 ---
 
 ## 👩‍💻 About Me
-
 <h3 align="center">Hi 👋 I'm Simran</h3>
 
 <p align="center">
-  💻 Computer Science Engineering Student <br>
-  🚀 Passionate about Software Development <br>
-  🧠 Love Problem Solving & DSA <br>
-  🌱 Currently Learning & Improving Every Day
+  🎓 Computer Science Engineering Student <br>
+  🤖 AI & Machine Learning Enthusiast <br>
+  📊 Passionate about Data Science & Data Analytics <br>
+  🐍 Exploring Python, Pandas & Machine Learning <br>
+  🌱 Always Learning, Building & Growing
 </p>
 
 <p align="center">
-  <i><b>"Consistency beats talent when talent doesn’t work consistently."</b></i>
+  <i><b>"Turning data into insights and ideas into intelligent solutions."</b></i>
 </p>
 
 ---
