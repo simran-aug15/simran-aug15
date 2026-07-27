@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Simran+%F0%9F%91%8B;B.Tech+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner;Exploring+Data+%7C+Building+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=1000&color=4F46E5&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Simran+%F0%9F%91%8B;B.Tech+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner;Exploring+Data+%7C+Building+Intelligent+Solutions" />
 </h1>
 
 <p align="center">
@@ -8,9 +8,10 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Developer-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tech%20Learner-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/B.Tech%20Computer%20Science-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science%20Learner-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Learner-F59E0B?style=for-the-badge"/>
 </h3>
 
 ---
