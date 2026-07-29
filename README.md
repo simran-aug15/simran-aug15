@@ -53,11 +53,11 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
   </a>
   &nbsp;
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak -->
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
-  <a href="https://github.com/simran-aug15">
-    <img src="https://streak-stats.demolab.com/?user=simran-aug15&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=simran-aug15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
