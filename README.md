@@ -53,13 +53,13 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
   </a>
   &nbsp;
-  <!-- Streak -->
+ <!-- Streak -->
+<p>
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran-aug15&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
   </a>
 </p>
 
-<p align="center">
   <!-- Top Languages -->
   <a href="https://github.com/simran-aug15">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
