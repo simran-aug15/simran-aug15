@@ -53,12 +53,13 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
   </a>
   &nbsp;
- <!-- Streak -->
+<!-- GitHub Streak Stats -->
 <p>
   <a href="https://github.com/simran-aug15">
-    <img src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=simran-aug15&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
   </a>
 </p>
+
 
   <!-- Top Languages -->
   <a href="https://github.com/simran-aug15">
