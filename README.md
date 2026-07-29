@@ -53,14 +53,12 @@
   </a>
   &nbsp;
 
-  <!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats -->
 <p align="center">
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=simran-aug15&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=simran-aug15&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
-
-
 
   <!-- Top Languages -->
   <a href="https://github.com/simran-aug15">
