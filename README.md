@@ -49,20 +49,20 @@
 <p align="center">
   <!-- Stats -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
   </a>
   &nbsp;
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=simran-aug15&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=simran-aug15&theme=tokyonight&hide_border=true" />
 </p>
 
 
   <!-- Top Languages -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
   </a>
 </p>
 
