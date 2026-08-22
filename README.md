@@ -47,21 +47,20 @@
 ## 📊 GitHub Stats and Activity
 
 <p align="center">
-  <!-- Stats -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+      height="180"
+      alt="Simran's GitHub Stats"
+    />
   </a>
-  &nbsp;
 
-  <!-- GitHub Streak Stats -->
   <a href="https://github.com/simran-aug15">
-    <img src="https://streak-stats.demolab.com/?user=simran-aug15&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
-  </a>
-  &nbsp;
-
-  <!-- Top Languages -->
-  <a href="https://github.com/simran-aug15">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+      height="180"
+      alt="Simran's Top Languages"
+    />
   </a>
 </p>
 
