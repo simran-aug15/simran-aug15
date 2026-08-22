@@ -47,8 +47,12 @@
 ## 📊 GitHub Stats and Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+  <a href="https://github.com/simran-aug15">
+    <img src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/simran-aug15">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+  </a>
 </p>
 
 
