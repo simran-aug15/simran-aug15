@@ -60,7 +60,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/simran-aug15" alt="Simran's GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-aug15&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
