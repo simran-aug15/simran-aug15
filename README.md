@@ -48,27 +48,28 @@ I'm a Computer Science Engineering student passionate about **Machine Learning, 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI Chat App</h3>
-      An interactive AI-powered chat application built with Python and Streamlit.
+      <h3>🤖 Basic Machine Learning Projects</h3>
+      A collection of machine learning projects focused on learning and implementing ML algorithms, building predictive models, and solving real-world problems.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
       <br/><br/>
-      <a href="https://github.com/simran-aug15/AI_Chat_App"><b>Explore Repository →</b></a>
+      <a href="https://github.com/simran-aug15/Basic_Machine_Learning_projects"><b>Explore Repository →</b></a>
     </td>
     <td width="50%">
-      <h3>📊 Streamlit Projects</h3>
-      Interactive Python applications, including a calculator and student result calculator.
+      <h3>🎬 Movie Recommender System</h3>
+      A movie recommendation project designed to suggest movies based on user preferences and similarities between movies.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square" alt="Machine Learning"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
       <br/><br/>
-      <a href="https://github.com/simran-aug15/Streamlit_Basic_projects"><b>Explore Repository →</b></a>
+      <a href="https://github.com/simran-aug15/Movie_Recommender_System"><b>Explore Repository →</b></a>
     </td>
   </tr>
-  <tr>
-  </tr>
 </table>
+
 
 ### 📈 GitHub Insights
 
