@@ -1,122 +1,89 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=1000&color=4F46E5&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Simran+%F0%9F%91%8B;B.Tech+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner;Exploring+Data+%7C+Building+Intelligent+Solutions" />
-</h1>
+# Simran | Machine Learning Developer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=130&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
-</p>
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20Computer%20Science-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science%20Learner-22C55E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tech%20Learner-F59E0B?style=for-the-badge"/>
-</h3>
-
----
-
-## 👩‍💻 About Me
-<h3 align="center">Hi 👋 I'm Simran</h3>
-
-<p align="center">
-  🎓 Computer Science Engineering Student <br>
-  🤖 AI & Machine Learning Enthusiast <br>
-  📊 Passionate about Data Science & Data Analytics <br>
-  🐍 Exploring Python, Pandas & Machine Learning <br>
-  🌱 Always Learning, Building & Growing
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Intelligence;Machine+Learning+%7C+Data+Science;Python+%7C+Predictive+Modeling;Exploring+Intelligent+Systems" alt="Machine Learning Developer"/>
 </p>
 
 <p align="center">
-  <i><b>"Turning data into insights and ideas into intelligent solutions."</b></i>
+  <a href="https://www.linkedin.com/in/simran-109a04353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/simran-aug15"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Simran_015/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:samarsimran492@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <a href="https://github.com/simran-aug15">
-    <!-- Use stable mirror instead of the main vercel app -->
-    <img src="https://stable-github-profile-trophy.vercel.app/?username=simran-aug15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
-  </a>
-</p>
-
-
-
----
-## 📊 GitHub Stats and Activity
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=simran-aug15&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</p>
-
-
-
-
-
----
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/simran-aug15" alt="Simran's GitHub Contributions" width="100%">
+  Computer Science Engineering Student
+  <br/>
+  <i>Turning data into insights and ideas into intelligent solutions.</i>
 </p>
 
 ---
 
-## 🛠️ Skills and Tools
+### 👨‍💻 About Me
 
-### 💻 Programming Languages
+I'm a Computer Science Engineering student passionate about **Machine Learning, Data Science, and Python development**.
+
+- 🤖 Exploring predictive modeling and intelligent systems
+- 📊 Working with data analysis and visualization
+- 🛠️ Building interactive applications with Streamlit
+- 🌱 Continuously learning and improving through projects
+
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,github,vscode&theme=light" alt="Programming languages and tools"/>
 </p>
 
-### 📚 Libraries
-
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-### ⚙️ Frameworks & Tools
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Chat App</h3>
+      An interactive AI-powered chat application built with Python and Streamlit.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <br/><br/>
+      <a href="https://github.com/simran-aug15/AI_Chat_App"><b>Explore Repository →</b></a>
+    </td>
+    <td width="50%">
+      <h3>📊 Streamlit Projects</h3>
+      Interactive Python applications, including a calculator and student result calculator.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <br/><br/>
+      <a href="https://github.com/simran-aug15/Streamlit_Basic_projects"><b>Explore Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:samarsimran492@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/simran-ramgarhia/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/simran-aug15">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Simran_015/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=simran-aug15&show_icons=true&hide_border=true&theme=transparent&icon_color=6366F1&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-aug15&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=80&section=footer"/>
+  <b>Explore. Experiment. Engineer Intelligence.</b>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/simran-109a04353">LinkedIn</a> ·
+  <a href="https://github.com/simran-aug15">GitHub</a> ·
+  <a href="https://leetcode.com/u/Simran_015/">LeetCode</a> ·
+  <a href="mailto:samarsimran492@gmail.com">Contact</a>
 </p>
