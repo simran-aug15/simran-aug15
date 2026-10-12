@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/simran-109a04353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/simran-aug15"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/Simran_015/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:samarsimran492@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:simranhere15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 I'm a Computer Science Engineering student passionate about **Machine Learning, Data Science, and Python development**.
 
-- 🤖 Exploring predictive modeling and intelligent systems
-- 📊 Working with data analysis and visualization
-- 🛠️ Building interactive applications with Streamlit
-- 🌱 Continuously learning and improving through projects
+* 🤖 Exploring predictive modeling and intelligent systems
+* 📊 Working with data analysis and visualization
+* 🛠️ Building interactive applications with Streamlit
+* 🌱 Continuously learning and improving through projects
 
 ### ⚙️ Tech Stack
 
@@ -85,5 +85,5 @@ I'm a Computer Science Engineering student passionate about **Machine Learning, 
   <a href="https://www.linkedin.com/in/simran-109a04353">LinkedIn</a> ·
   <a href="https://github.com/simran-aug15">GitHub</a> ·
   <a href="https://leetcode.com/u/Simran_015/">LeetCode</a> ·
-  <a href="mailto:samarsimran492@gmail.com">Contact</a>
+  <a href="mailto:simranhere15@gmail.com">Contact</a>
 </p>
